@@ -1,4 +1,5 @@
 # Angular Boilerplate
 
-- clone
-- run a server
+- fork/clone
+- `npm i`
+- `gulp`
