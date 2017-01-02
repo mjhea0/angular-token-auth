@@ -1,4 +1,4 @@
-# Angular Boilerplate For Noah
+# Angular Boilerplate
 
 - clone
 - run a server
